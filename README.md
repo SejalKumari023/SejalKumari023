@@ -45,7 +45,6 @@
       <h3>🏋️ Fitness Progress Tracker</h3>
       <p>A personalized analytics dashboard that brings together nutrition, workouts, activity, sleep, body composition, and long-term health trends.</p>
       <p><strong>Built with:</strong> Python, Streamlit, SQLite, Plotly, Pandas</p>
-      <a href="https://sutiharprogress.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open%20Fitness%20Tracker-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Fitness Progress Tracker" /></a>
     </td>
   </tr>
 </table>
